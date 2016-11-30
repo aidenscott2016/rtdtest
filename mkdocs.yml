@@ -1,3 +1,4 @@
 site_name: My Docs
 pages: 
-    - 'Index': index.md
+    - 'Create an app': index.md
+    - 'Kittens': kittens.md
