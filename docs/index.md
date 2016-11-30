@@ -82,7 +82,7 @@ curl -vvv 'http://localhost:8080/api/applications' \
 ### Header Params
 `Authorization: Bearer [[your access_token]]`
 
-<aside class="notice">
+<aside class="warning">
 Your <code>access_token</code> can be obtained from the <code>/request_token</code> endpoint.
 </aside>
 
